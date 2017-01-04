@@ -27,6 +27,7 @@
     "url": "https://github.com/awocallaghan/node-rss-combiner.git"
   },
   "dependencies": {
+    "express": "^4.14.0",
     "feedparser": "^1.1.4",
     "lodash": "^4.13.1",
     "q": "^1.4.1",

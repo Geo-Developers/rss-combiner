@@ -4,208 +4,224 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>rss-combiner for Node</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 20:22:07 GMT</lastBuildDate>
-        <pubDate>Sun, 05 Jun 2016 20:22:06 GMT</pubDate>
+        <lastBuildDate>Wed, 04 Jan 2017 08:23:42 GMT</lastBuildDate>
+        <pubDate>Wed, 04 Jan 2017 08:23:38 GMT</pubDate>
         <item>
-            <title><![CDATA[How cancer was created by evolution]]></title>
-            <description><![CDATA[How cancer was created by evolution]]></description>
-            <link>http://www.bbc.com/earth/story/20160601-is-cancer-inevitable</link>
-            <guid isPermaLink="false">http://www.bbc.com/earth/story/20160601-is-cancer-inevitable</guid>
-            <pubDate>Sun, 05 Jun 2016 19:56:46 GMT</pubDate>
+            <title><![CDATA[What’s Coming in the ArcGIS Pro 1.4 SDK]]></title>
+            <description><![CDATA[What’s Coming in the ArcGIS Pro 1.4 SDK]]></description>
+            <link>https://blogs.esri.com/esri/arcgis/2017/01/03/whats-coming-in-the-arcgis-pro-1-4-sdk/</link>
+            <guid isPermaLink="false">https://blogs.esri.com/esri/arcgis/?p=72373</guid>
+            <category><![CDATA[3D GIS]]></category>
+            <category><![CDATA[App Developers]]></category>
+            <category><![CDATA[ArcGIS Pro]]></category>
+            <category><![CDATA[ArcMap]]></category>
+            <category><![CDATA[Developer]]></category>
+            <category><![CDATA[Mapping]]></category>
+            <category><![CDATA[Uncategorized]]></category>
+            <category><![CDATA[.NET]]></category>
+            <category><![CDATA[ArcGIS Pro 1.4]]></category>
+            <category><![CDATA[ArcGIS Pro SDK]]></category>
+            <category><![CDATA[Pro SDK Configurations]]></category>
+            <category><![CDATA[Visual Studio]]></category>
+            <dc:creator><![CDATA[Christopher Zent]]></dc:creator>
+            <pubDate>Wed, 04 Jan 2017 01:10:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HTTPS and the illusion of privacy]]></title>
-            <description><![CDATA[HTTPS and the illusion of privacy]]></description>
-            <link>https://blog.jeaye.com/2016/05/30/https-illusion/</link>
-            <guid isPermaLink="false">https://blog.jeaye.com/2016/05/30/https-illusion/</guid>
-            <pubDate>Sun, 05 Jun 2016 19:47:03 GMT</pubDate>
+            <title><![CDATA[The Gentrification of New York City]]></title>
+            <description><![CDATA[The Gentrification of New York City]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/ZJ1OcSrVawo/the-gentrification-of-new-york-city.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-7933350321666182669</guid>
+            <category><![CDATA[economy]]></category>
+            <category><![CDATA[New York]]></category>
+            <category><![CDATA[USA]]></category>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Tue, 03 Jan 2017 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make your own tagging system from scratch]]></title>
-            <description><![CDATA[Make your own tagging system from scratch]]></description>
-            <link>http://www.kequc.com/2016/06/03/make-your-own-tagging-system-from-scratch</link>
-            <guid isPermaLink="false">http://www.kequc.com/2016/06/03/make-your-own-tagging-system-from-scratch</guid>
-            <pubDate>Sun, 05 Jun 2016 19:39:25 GMT</pubDate>
+            <title><![CDATA[Los mejores plugins para OpenLayers 3]]></title>
+            <description><![CDATA[Los mejores plugins para OpenLayers 3]]></description>
+            <link>http://mappinggis.com/2017/01/plugins-para-openlayers-3/</link>
+            <guid isPermaLink="false">http://mappinggis.com/?p=24383</guid>
+            <category><![CDATA[GIS Open source]]></category>
+            <category><![CDATA[Programación]]></category>
+            <category><![CDATA[Web Mapping]]></category>
+            <category><![CDATA[JavaScript]]></category>
+            <category><![CDATA[OpenLayers]]></category>
+            <category><![CDATA[plugins]]></category>
+            <dc:creator><![CDATA[Aurelio Morales]]></dc:creator>
+            <pubDate>Tue, 03 Jan 2017 10:13:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google shows how Android apps will run on your Chromebook]]></title>
-            <description><![CDATA[Google shows how Android apps will run on your Chromebook]]></description>
-            <link>http://www.engadget.com/2016/06/05/google-shows-android-apps-on-chromebook/</link>
-            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/google-shows-android-apps-on-chromebook/</guid>
-            <category><![CDATA[android]]></category>
-            <category><![CDATA[chromebook]]></category>
-            <category><![CDATA[chromeos]]></category>
-            <category><![CDATA[gear]]></category>
-            <category><![CDATA[google]]></category>
-            <category><![CDATA[googleio2016]]></category>
-            <category><![CDATA[internet]]></category>
-            <category><![CDATA[mobile]]></category>
-            <category><![CDATA[personal computing]]></category>
-            <category><![CDATA[personalcomputing]]></category>
-            <category><![CDATA[software]]></category>
-            <category><![CDATA[video]]></category>
-            <dc:creator><![CDATA[Jon Fingas]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 19:29:00 GMT</pubDate>
+            <title><![CDATA[New York's Real-Time Traffic Map]]></title>
+            <description><![CDATA[New York's Real-Time Traffic Map]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/OegF_rSyFOY/new-yorks-rea-time-traffic-map.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-964291933530759905</guid>
+            <category><![CDATA[New York]]></category>
+            <category><![CDATA[USA]]></category>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Mon, 02 Jan 2017 16:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mark Zuckerberg's Twitter and Pinterest Accounts Hacked from Linkedin Breach]]></title>
-            <description><![CDATA[Mark Zuckerberg's Twitter and Pinterest Accounts Hacked from Linkedin Breach]]></description>
-            <link>https://twitter.com/Ben_Hall/status/739534393585340417</link>
-            <guid isPermaLink="false">https://twitter.com/Ben_Hall/status/739534393585340417</guid>
-            <pubDate>Sun, 05 Jun 2016 19:28:23 GMT</pubDate>
+            <title><![CDATA[The Dakota Access Pipeline Map]]></title>
+            <description><![CDATA[The Dakota Access Pipeline Map]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/YbS_mEZa1Qs/the-dakota-access-pipeline-map.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-369505189989849988</guid>
+            <category><![CDATA[environment]]></category>
+            <category><![CDATA[USA]]></category>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Sat, 31 Dec 2016 16:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hellcat: netcat that takes unfair advantage of traffic shaping systems]]></title>
-            <description><![CDATA[Hellcat: netcat that takes unfair advantage of traffic shaping systems]]></description>
-            <link>https://github.com/matildah/hellcat</link>
-            <guid isPermaLink="false">https://github.com/matildah/hellcat</guid>
-            <pubDate>Sun, 05 Jun 2016 19:06:02 GMT</pubDate>
+            <title><![CDATA[Un repaso por los mejores mapas de 2016]]></title>
+            <description><![CDATA[Un repaso por los mejores mapas de 2016]]></description>
+            <link>http://www.geografiainfinita.com/2016/12/un-repaso-por-los-mejores-mapas-de-2016/</link>
+            <guid isPermaLink="false">http://www.geografiainfinita.com/?p=7663</guid>
+            <category><![CDATA[Mapas Infinitos]]></category>
+            <category><![CDATA[2016]]></category>
+            <category><![CDATA[balance]]></category>
+            <category><![CDATA[cartografía]]></category>
+            <category><![CDATA[Mapas]]></category>
+            <dc:creator><![CDATA[Gonzalo Prieto]]></dc:creator>
+            <pubDate>Sat, 31 Dec 2016 09:00:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[List of selfie-related injuries and deaths]]></title>
-            <description><![CDATA[List of selfie-related injuries and deaths]]></description>
-            <link>https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths</link>
-            <guid isPermaLink="false">https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths</guid>
-            <pubDate>Sun, 05 Jun 2016 18:56:41 GMT</pubDate>
+            <title><![CDATA[How to Create a Green & Pleasant Land]]></title>
+            <description><![CDATA[How to Create a Green & Pleasant Land]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/GvlgneHH8YY/how-to-create-green-pleasant-land.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-5353441686271421533</guid>
+            <category><![CDATA[environment]]></category>
+            <category><![CDATA[UK]]></category>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2016 13:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nick Farr's 30c3 Jake Appelbaum story of abuse and harassment]]></title>
-            <description><![CDATA[Nick Farr's 30c3 Jake Appelbaum story of abuse and harassment]]></description>
-            <link>https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.uzs72fnhp</link>
-            <guid isPermaLink="false">https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.uzs72fnhp</guid>
-            <pubDate>Sun, 05 Jun 2016 18:25:29 GMT</pubDate>
+            <title><![CDATA[Una necrológica para el Mar Menor tras las inundaciones]]></title>
+            <description><![CDATA[Una necrológica para el Mar Menor tras las inundaciones]]></description>
+            <link>http://www.geografiainfinita.com/2016/12/una-necrologica-para-el-mar-menor-tras-las-inundaciones/</link>
+            <guid isPermaLink="false">http://www.geografiainfinita.com/?p=7666</guid>
+            <category><![CDATA[Actualidad]]></category>
+            <category><![CDATA[Mundo Infinito]]></category>
+            <category><![CDATA[campo de cartagena]]></category>
+            <category><![CDATA[Mar Menor]]></category>
+            <category><![CDATA[Mediterráneo]]></category>
+            <category><![CDATA[regadío]]></category>
+            <category><![CDATA[secano]]></category>
+            <category><![CDATA[trasvases]]></category>
+            <dc:creator><![CDATA[Gonzalo Prieto]]></dc:creator>
+            <pubDate>Fri, 30 Dec 2016 10:10:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vvvv – a live-programming environment for easy prototyping and development]]></title>
-            <description><![CDATA[Vvvv – a live-programming environment for easy prototyping and development]]></description>
-            <link>https://vvvv.org</link>
-            <guid isPermaLink="false">https://vvvv.org</guid>
-            <pubDate>Sun, 05 Jun 2016 18:01:34 GMT</pubDate>
+            <title><![CDATA[Origin-Destination Flow Maps]]></title>
+            <description><![CDATA[Origin-Destination Flow Maps]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/PXHOGxw-QeY/origin-destination-flow-maps.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-7659604814324631738</guid>
+            <category><![CDATA[Bike Routes]]></category>
+            <category><![CDATA[Boston]]></category>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Thu, 29 Dec 2016 15:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nest’s time at Alphabet: A “virtually unlimited budget” with no results]]></title>
-            <description><![CDATA[Nest’s time at Alphabet: A “virtually unlimited budget” with no results]]></description>
-            <link>http://arstechnica.com/gadgets/2016/06/nests-time-at-alphabet-a-virtually-unlimited-budget-with-no-results/</link>
-            <guid isPermaLink="false">http://arstechnica.com/gadgets/2016/06/nests-time-at-alphabet-a-virtually-unlimited-budget-with-no-results/</guid>
-            <pubDate>Sun, 05 Jun 2016 17:59:38 GMT</pubDate>
+            <title><![CDATA[2016 Year in Review]]></title>
+            <description><![CDATA[2016 Year in Review]]></description>
+            <link>http://blog.mapillary.com/update/2016/12/29/year-in-review.html</link>
+            <guid isPermaLink="false">http://blog.mapillary.com/update/2016/12/29/year-in-review.html</guid>
+            <pubDate>Wed, 28 Dec 2016 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Snowden did more to raise NSA concerns than officials claimed]]></title>
-            <description><![CDATA[Snowden did more to raise NSA concerns than officials claimed]]></description>
-            <link>http://www.engadget.com/2016/06/05/snowden-did-more-to-raise-nsa-concerns/</link>
-            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/snowden-did-more-to-raise-nsa-concerns/</guid>
-            <category><![CDATA[culture]]></category>
-            <category><![CDATA[edwardsnowden]]></category>
-            <category><![CDATA[internet]]></category>
-            <category><![CDATA[nsa]]></category>
-            <category><![CDATA[politics]]></category>
-            <category><![CDATA[privacy]]></category>
-            <category><![CDATA[security]]></category>
-            <category><![CDATA[spying]]></category>
-            <category><![CDATA[surveillance]]></category>
-            <dc:creator><![CDATA[Jon Fingas]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 17:58:00 GMT</pubDate>
+            <title><![CDATA[2017 Goals: Hope Is Not a Strategy]]></title>
+            <description><![CDATA[2017 Goals: Hope Is Not a Strategy]]></description>
+            <link>http://odoe.net/blog/2017-goals-hope-not-strategy/</link>
+            <guid isPermaLink="false">http://odoe.net/blog/?p=1436</guid>
+            <category><![CDATA[goals]]></category>
+            <category><![CDATA[career]]></category>
+            <category><![CDATA[esri]]></category>
+            <dc:creator><![CDATA[odoe]]></dc:creator>
+            <pubDate>Wed, 28 Dec 2016 21:57:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Judge sends two to prison for 7 years for H-1B fraud]]></title>
-            <description><![CDATA[Judge sends two to prison for 7 years for H-1B fraud]]></description>
-            <link>http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html</link>
-            <guid isPermaLink="false">http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html</guid>
-            <pubDate>Sun, 05 Jun 2016 17:41:35 GMT</pubDate>
+            <title><![CDATA[Atlas de la lengua española (descarga libre)]]></title>
+            <description><![CDATA[Atlas de la lengua española (descarga libre)]]></description>
+            <link>http://alpoma.net/carto/?p=6571</link>
+            <guid isPermaLink="false">http://alpoma.net/carto/?p=6571</guid>
+            <category><![CDATA[En línea]]></category>
+            <category><![CDATA[atlas]]></category>
+            <category><![CDATA[descargas]]></category>
+            <category><![CDATA[lengua española]]></category>
+            <category><![CDATA[Telefónica]]></category>
+            <dc:creator><![CDATA[alpoma]]></dc:creator>
+            <pubDate>Wed, 28 Dec 2016 16:05:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mysterious Giant Sphere Unearthed in Forest Divides Opinion]]></title>
-            <description><![CDATA[Mysterious Giant Sphere Unearthed in Forest Divides Opinion]]></description>
-            <link>http://themindcircle.com/mysterious-giant-sphere-unearthed-forest-divides-opinion/</link>
-            <guid isPermaLink="false">http://themindcircle.com/mysterious-giant-sphere-unearthed-forest-divides-opinion/</guid>
-            <pubDate>Sun, 05 Jun 2016 16:48:11 GMT</pubDate>
+            <title><![CDATA[semanarioOSM 336]]></title>
+            <description><![CDATA[semanarioOSM 336]]></description>
+            <link>http://www.weeklyosm.eu/es/archives/8514</link>
+            <guid isPermaLink="false">http://www.weeklyosm.eu/?p=8514</guid>
+            <category><![CDATA[Weekly]]></category>
+            <dc:creator><![CDATA[weeklyteam]]></dc:creator>
+            <pubDate>Wed, 28 Dec 2016 09:51:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inhabitat's Week in Green: The first freeform 3D-printed house]]></title>
-            <description><![CDATA[Inhabitat's Week in Green: The first freeform 3D-printed house]]></description>
-            <link>http://www.engadget.com/2016/06/05/inhabitat-week-in-green-WATG-3d-printed-freeform-house/</link>
-            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/inhabitat-week-in-green-WATG-3d-printed-freeform-house/</guid>
-            <category><![CDATA[consumerreports]]></category>
-            <category><![CDATA[ford]]></category>
-            <category><![CDATA[fusionenergi]]></category>
-            <category><![CDATA[gear]]></category>
-            <category><![CDATA[gigafactory]]></category>
-            <category><![CDATA[gotthardbasetunnel]]></category>
-            <category><![CDATA[green]]></category>
-            <category><![CDATA[inhabitat]]></category>
-            <category><![CDATA[inhabitatsweekingreen]]></category>
-            <category><![CDATA[londonsciencemuseum]]></category>
-            <category><![CDATA[mit]]></category>
-            <category><![CDATA[partner]]></category>
-            <category><![CDATA[science]]></category>
-            <category><![CDATA[syndicated]]></category>
-            <category><![CDATA[tesla]]></category>
-            <category><![CDATA[toyota]]></category>
-            <category><![CDATA[toyotaprius]]></category>
-            <category><![CDATA[transportation]]></category>
-            <category><![CDATA[volkswagen]]></category>
-            <category><![CDATA[vw]]></category>
-            <category><![CDATA[watg]]></category>
-            <category><![CDATA[weekingreen]]></category>
-            <dc:creator><![CDATA[Inhabitat]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 16:30:00 GMT</pubDate>
+            <title><![CDATA[Visualizing Branch Optimization for Cajamar]]></title>
+            <description><![CDATA[Visualizing Branch Optimization for Cajamar]]></description>
+            <link>https://carto.com/blog/visualizing-points-of-interest-for-cajamar/</link>
+            <guid isPermaLink="false">https://carto.com/blog/visualizing-points-of-interest-for-cajamar/</guid>
+            <category><![CDATA[Banking]]></category>
+            <category><![CDATA[Finance]]></category>
+            <category><![CDATA[Location Intelligence]]></category>
+            <category><![CDATA[Data Analytics]]></category>
+            <category><![CDATA[Customer Stories]]></category>
+            <pubDate>Wed, 28 Dec 2016 08:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSObject (1994)]]></title>
-            <description><![CDATA[NSObject (1994)]]></description>
-            <link>http://www.nextop.de/NeXTstep_3.3_Developer_Documentation/Foundation/Classes/NSObject.htmld/index.html</link>
-            <guid isPermaLink="false">http://www.nextop.de/NeXTstep_3.3_Developer_Documentation/Foundation/Classes/NSObject.htmld/index.html</guid>
-            <pubDate>Sun, 05 Jun 2016 16:20:50 GMT</pubDate>
+            <title><![CDATA[7 Community Achievements in 2016: The Unseen Leaderboards]]></title>
+            <description><![CDATA[7 Community Achievements in 2016: The Unseen Leaderboards]]></description>
+            <link>http://blog.mapillary.com/update/2016/12/28/7-community-achievements-in-2016-the-unseen-leaderboards.html</link>
+            <guid isPermaLink="false">http://blog.mapillary.com/update/2016/12/28/7-community-achievements-in-2016-the-unseen-leaderboards.html</guid>
+            <pubDate>Tue, 27 Dec 2016 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Be warned, there's a nasty Google 2 factor auth attack going around]]></title>
-            <description><![CDATA[Be warned, there's a nasty Google 2 factor auth attack going around]]></description>
-            <link>https://twitter.com/maccaw/status/739232334541524992</link>
-            <guid isPermaLink="false">https://twitter.com/maccaw/status/739232334541524992</guid>
-            <pubDate>Sun, 05 Jun 2016 16:11:26 GMT</pubDate>
+            <title><![CDATA[Tracking Santa in Real Time]]></title>
+            <description><![CDATA[Tracking Santa in Real Time]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/TmRpGt5DJdc/tracking-santa-in-real-time.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-4707848613153585944</guid>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Sat, 24 Dec 2016 09:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I Was Wrong About TypeScript]]></title>
-            <description><![CDATA[I Was Wrong About TypeScript]]></description>
-            <link>https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/</link>
-            <guid isPermaLink="false">https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/</guid>
-            <pubDate>Sun, 05 Jun 2016 15:41:42 GMT</pubDate>
+            <title><![CDATA[semanarioOSM 335]]></title>
+            <description><![CDATA[semanarioOSM 335]]></description>
+            <link>http://www.weeklyosm.eu/es/archives/8494</link>
+            <guid isPermaLink="false">http://www.weeklyosm.eu/?p=8494</guid>
+            <category><![CDATA[Weekly]]></category>
+            <dc:creator><![CDATA[weeklyteam]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 19:46:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Fall and Rise of Iridium]]></title>
-            <description><![CDATA[The Fall and Rise of Iridium]]></description>
-            <link>http://www.wsj.com/articles/the-fall-and-rise-of-iridium-1464980784</link>
-            <guid isPermaLink="false">http://www.wsj.com/articles/the-fall-and-rise-of-iridium-1464980784</guid>
-            <pubDate>Sun, 05 Jun 2016 15:05:41 GMT</pubDate>
+            <title><![CDATA[Michael Krasnyk joins Mapbox!]]></title>
+            <description><![CDATA[Michael Krasnyk joins Mapbox!]]></description>
+            <link>https://www.mapbox.com/blog/welcome-michael-krasnyk/</link>
+            <guid isPermaLink="false">https://www.mapbox.com/blog/welcome-michael-krasnyk/</guid>
+            <dc:creator><![CDATA[Daniel Hofmann]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The After Math: Technology to the rescue]]></title>
-            <description><![CDATA[The After Math: Technology to the rescue]]></description>
-            <link>http://www.engadget.com/2016/06/05/the-after-math-technology-to-the-rescue/</link>
-            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/the-after-math-technology-to-the-rescue/</guid>
-            <dc:creator><![CDATA[Andrew Tarantola]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 15:00:00 GMT</pubDate>
+            <title><![CDATA[Christmas Songs Around the World]]></title>
+            <description><![CDATA[Christmas Songs Around the World]]></description>
+            <link>http://feedproxy.google.com/~r/GoogleMapsMania/~3/45fFKPPuU74/christmas-songs-around-world.html</link>
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-12158290.post-8019250463459381999</guid>
+            <dc:creator><![CDATA[Keir Clarke]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bose goes wireless with the QuietComfort 35 headphones]]></title>
-            <description><![CDATA[Bose goes wireless with the QuietComfort 35 headphones]]></description>
-            <link>http://www.engadget.com/2016/06/05/bose-quietcomfort-35-quietcontrol-30/</link>
-            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/bose-quietcomfort-35-quietcontrol-30/</guid>
-            <category><![CDATA[av]]></category>
-            <category><![CDATA[bose]]></category>
-            <category><![CDATA[bosequietcomfort]]></category>
-            <category><![CDATA[bosequietcomfort35]]></category>
-            <category><![CDATA[bosequietcontrol20]]></category>
-            <category><![CDATA[gear]]></category>
-            <category><![CDATA[hands-on]]></category>
-            <category><![CDATA[headphones]]></category>
-            <category><![CDATA[quietcomfort]]></category>
-            <category><![CDATA[quietcomfort35]]></category>
-            <category><![CDATA[quietcontrol]]></category>
-            <category><![CDATA[quietcontrol20]]></category>
-            <category><![CDATA[wirelessheadphones]]></category>
-            <dc:creator><![CDATA[Edgar Alvarez]]></dc:creator>
-            <pubDate>Sun, 05 Jun 2016 14:00:00 GMT</pubDate>
+            <title><![CDATA[ArcGIS JSAPI Accessor and Widgets!]]></title>
+            <description><![CDATA[ArcGIS JSAPI Accessor and Widgets!]]></description>
+            <link>http://odoe.net/blog/arcgis-jsapi-accessor-widgets/</link>
+            <guid isPermaLink="false">http://odoe.net/blog/?p=1427</guid>
+            <category><![CDATA[javascript]]></category>
+            <category><![CDATA[arcgis]]></category>
+            <category><![CDATA[esri]]></category>
+            <dc:creator><![CDATA[odoe]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2016 01:33:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
