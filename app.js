@@ -1,7 +1,26 @@
 var express = require('express')
 var app = express()
 
+app.use('/static', express.static('public'))
+
 app.get('/', function (req, res) {
+  
+  fs = require('fs')
+  fs.readFile('example/xml/tech-example.xml', 'utf8', function (err,data) {
+    if (err) {
+      return console.log(err);
+    }
+    console.log(data);
+    res.send(data);
+  });
+  updateFeed();
+
+
+
+  
+})
+
+var updateFeed = function(){
   var RSSCombiner = require('./lib');
   var fs = require('fs');
 
@@ -45,13 +64,9 @@ app.get('/', function (req, res) {
                   console.log('Tech feed written');
               }
           });
-          res.send(xml)
+          
         });
-
-
-
-  
-})
+};
 
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!')
