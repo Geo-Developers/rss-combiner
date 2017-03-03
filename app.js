@@ -4,7 +4,7 @@ var app = express()
 app.use('/static', express.static('public'))
 
 app.get('/', function (req, res) {
-  
+
   fs = require('fs')
   fs.readFile('example/xml/tech-example.xml', 'utf8', function (err,data) {
     if (err) {
@@ -17,7 +17,7 @@ app.get('/', function (req, res) {
 
 
 
-  
+
 })
 
 var updateFeed = function(){
@@ -49,7 +49,8 @@ var updateFeed = function(){
         'http://feeds.feedburner.com/SitumTechnologies',
         'http://blog.mapillary.com/rss.xml',
         'http://www.francisortiz.com/feeds/posts/default?alt=rss',
-        'http://www.weeklyosm.eu/es/feed'
+        'http://www.weeklyosm.eu/es/feed',
+        'http://feeds.feedburner.com/ThunderheadExplorer'
     ],
       pubDate: new Date()
   };
@@ -64,7 +65,7 @@ var updateFeed = function(){
                   console.log('Tech feed written');
               }
           });
-          
+
         });
 };
 
